@@ -227,7 +227,7 @@ seaborn
 | Name | Role | GitHub |
 |:-----|:-----|:-------|
 | Olofin Deborah (Temi) | Team Lead, Lead Data scientist, ML engineer | [@Mi-kami](https://github.com/Mi-kami) |
-| Victor Barilee Kayli | EDA | [@Alexinho9](https://github.com/Alexinho9) |
+| Barilee Victor Kayii | EDA | [@Alexinho9](https://github.com/Alexinho9) |
 | Amusa Rhoda | EDA, Modelling & Analytics | [@Musa-Rhoda](https://github.com/Musa-Rhoda) |
 | Mrs. Judith Amaka | EDA | [@Judithamaka1](https://github.com/Judithamaka1) |
 | Awoyemi Emmanuel| EDA | [@awoyemiemmanuel1900](https://github.com/awoyemiemmanuel1900) |
