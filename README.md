@@ -125,7 +125,7 @@ TSA_DS_Capstone_Group3/
 | # | Notebook | Description |
 |:--|:---------|:------------|
 | 01 | Early Warning Food Price Monitor — Northeast Nigeria_TS_Academy_Capstone_Project.ipynb |  a single end-to-end executable notebook |
-| 02 | Documentation_and_Report.ipynb | A comprehensive runthrough of the notebook for non-technical personnels  |
+| 02 | Documentation_and_Report.ipynb | A comprehensive runthrough of the project for non-technical personnels  |
 
 ---
 
